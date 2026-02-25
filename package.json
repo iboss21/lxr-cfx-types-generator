@@ -1,24 +1,30 @@
 {
-  "name": "fivem-lua-type-generator",
+  "name": "lxr-cfx-types-generator",
   "version": "1.0.0",
-  "description": "Generates TypeScript-style Lua type definitions for FiveM server exports",
+  "description": "🐺 LXR Cfx Lua Type Generator — Generates Lua type definitions for FiveM/RedM server resource exports | wolves.land",
   "main": "src/index.js",
   "type": "module",
   "bin": {
-    "fivem-type-gen": "./src/index.js"
+    "lxr-cfx-type-gen": "./src/index.js"
   },
   "scripts": {
     "start": "node src/index.js"
   },
   "keywords": [
+    "lxr-core",
+    "rsg-core",
+    "vorp",
     "fivem",
+    "redm",
     "lua",
     "types",
     "typescript",
     "type-generation",
-    "luadoc"
+    "luadoc",
+    "wolves-land",
+    "cfx"
   ],
-  "author": "ihyajb",
+  "author": "iBoss21 / The Lux Empire",
   "license": "MIT",
   "dependencies": {
     "glob": "^10.3.10"
