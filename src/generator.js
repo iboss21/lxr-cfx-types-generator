@@ -10,11 +10,11 @@
 //     🐺 LXR Cfx Types Generator — Type Definition Generator
 //
 //     Server:      The Land of Wolves 🐺
-//     Developer:   iBoss21 / The Lux Empire
+//     Developer:   iBoss21 / The Land of Wolves
 //     Website:     https://www.wolves.land
 //     GitHub:      https://github.com/iBoss21
 //
-//     © 2026 iBoss21 / The Lux Empire | wolves.land | All Rights Reserved
+//     © 2026 iBoss21 / The Land of Wolves | wolves.land | All Rights Reserved
 //
 // ═══════════════════════════════════════════════════════════════════════════════
 

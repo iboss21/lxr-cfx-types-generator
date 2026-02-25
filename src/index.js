@@ -10,7 +10,7 @@
 //     🐺 LXR Cfx Types Generator — Main Entry Point
 //
 //     Server:      The Land of Wolves 🐺
-//     Developer:   iBoss21 / The Lux Empire
+//     Developer:   iBoss21 / The Land of Wolves
 //     Website:     https://www.wolves.land
 //     Discord:     https://discord.gg/CrKcWdfd3A
 //     GitHub:      https://github.com/iBoss21
@@ -20,7 +20,7 @@
 //     - RSG Core (Primary)
 //     - VORP Core (Compatible)
 //
-//     © 2026 iBoss21 / The Lux Empire | wolves.land | All Rights Reserved
+//     © 2026 iBoss21 / The Land of Wolves | wolves.land | All Rights Reserved
 //
 // ═══════════════════════════════════════════════════════════════════════════════
 
@@ -137,7 +137,7 @@ async function main() {
   🐺 LXR Cfx Types Generator v1.0.0
   ═══════════════════════════════════════════════════════════════════════════════
 
-      Developer:   iBoss21 / The Lux Empire
+      Developer:   iBoss21 / The Land of Wolves
       Website:     https://www.wolves.land
       Discord:     https://discord.gg/CrKcWdfd3A
 

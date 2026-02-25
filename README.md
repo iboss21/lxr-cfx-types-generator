@@ -22,7 +22,7 @@
 [![RedM](https://img.shields.io/badge/RedM-Compatible-orange.svg)](https://redm.net)
 [![FiveM](https://img.shields.io/badge/FiveM-Compatible-orange.svg)](https://fivem.net)
 
-[💬 Discord](https://discord.gg/CrKcWdfd3A) • [🌐 Website](https://www.wolves.land) • [💻 GitHub](https://github.com/iBoss21) • [🛒 Store](https://theluxempire.tebex.io)
+[💬 Discord](https://discord.gg/CrKcWdfd3A) • [🌐 Website](https://www.wolves.land) • [💻 GitHub](https://github.com/iBoss21) • [🛒 Store](https://wolves.land/store)
 
 </div>
 
@@ -261,7 +261,7 @@ Need help? We're here for you!
 
 - 💬 **Discord:** [Join our community](https://discord.gg/CrKcWdfd3A)
 - 🐛 **Issues:** [Report bugs](https://github.com/iboss21/lxr-cfx-types-generator/issues)
-- 🛒 **Store:** [The Lux Empire Store](https://theluxempire.tebex.io)
+- 🛒 **Store:** [The Land of Wolves Store](https://wolves.land/store)
 
 ---
 
@@ -285,7 +285,7 @@ Georgian RP 🇬🇪 | მგლების მიწა - რჩეულთ�
 [🌐 Website](https://www.wolves.land) •
 [💬 Discord](https://discord.gg/CrKcWdfd3A) •
 [🎮 Server](https://servers.redm.net/servers/detail/8gj7eb) •
-[🛒 Store](https://theluxempire.tebex.io) •
+[🛒 Store](https://wolves.land/store) •
 [💻 GitHub](https://github.com/iBoss21)
 
 </div>
@@ -294,7 +294,7 @@ Georgian RP 🇬🇪 | მგლების მიწა - რჩეულთ�
 
 ## 📜 Credits
 
-**Developer:** iBoss21 / The Lux Empire
+**Developer:** iBoss21 / The Land of Wolves
 **Original Author:** ihyajb
 **Inspired by:** [ox_types](https://github.com/overextended/ox_types)
 
@@ -312,8 +312,8 @@ Georgian RP 🇬🇪 | მგლების მიწა - რჩეულთ�
 
 MIT
 
-© 2026 iBoss21 / The Lux Empire | wolves.land | All Rights Reserved
+© 2026 iBoss21 / The Land of Wolves | wolves.land | All Rights Reserved
 
-**Made with ❤️ by The Lux Empire for The Land of Wolves 🐺**
+**Made with ❤️ by The Land of Wolves 🐺**
 
 </div>
